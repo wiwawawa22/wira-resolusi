@@ -3,3 +3,5 @@ Wira Resolusi
 - Belajar Javascript
 - Belajar Codeigniter
 - Bikin Project Web Programming II
+- Selesaikan Playlist Bekerja dengan Github (WPU)
+- Main Badminton dengan Awaw
