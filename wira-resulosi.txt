@@ -1,0 +1,5 @@
+Wira Resolusi
+- Selesaikan Playlist Web Dasar (Kelas Terbuka)
+- Belajar Javascript
+- Belajar Codeigniter
+- Bikin Project Web Programming II
