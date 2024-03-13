@@ -4,4 +4,4 @@ Wira Resolusi
 - Belajar Codeigniter
 - Bikin Project Web Programming II
 - Selesaikan Playlist Bekerja dengan Github (WPU)
-- Main Badminton dengan Awaw
+- Jalan - jalan sama awa
